@@ -2,5 +2,5 @@
 <!-- !companies! -->
 | Company | Description | Web Site| Location |
 |---------|-------------|---------| -------- |
-|Zvonimir|Koprivnjak|Bok|Kropina|
+|AIR RMLD d.o.o.|Automated aircraft/drones|(https://www.air-rmld.com/)|Kropina|
 
