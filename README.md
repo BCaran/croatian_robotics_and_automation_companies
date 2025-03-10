@@ -1,4 +1,6 @@
 ### Active companies
 <!-- !companies! -->
-| Company | Description | Year Founded| 
-|---------|-------------|------|
+| Company | Description | Web Site| Location |
+|---------|-------------|---------| -------- |
+|Zvonimir|Koprivnjak|Bok|Kropina|
+
