@@ -18,5 +18,5 @@
 | **Romb Technologies d.o.o.**                          | Development of systems for autonomous navigation and drone control   | Ulica Antuna Harambašića 6, 31000 Osijek       | [romb-technologies.hr](https://romb-technologies.hr) |
 | **Ronna Medical d.o.o.**                              | Robotic systems for neurosurgery and supplementary medical devices   | ???                                            | ???                                  |
 | **Stemi d.o.o.**                                      | STEM education                                                       | Školjić 12, 51000 Rijeka                       | [stemi.education](https://stemi.education) |
-| **Strojobehnika d.o.o.**                              | Robotic systems / automation in industry                             | ???                                            | ???                                  |
+| **Strojotehnika d.o.o.**                              | Robotic systems / automation in industry                             | ???                                            | ???                                  |
 | **V&R Automated Systems d.o.o.**                      | Automation in industry                                               | Ulica Ivana Kreleta 18A, 10360 Sesvete         | ???                                  |
