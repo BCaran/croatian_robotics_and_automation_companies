@@ -1,8 +1,22 @@
 ### Active companies
 <!-- !companies! -->
-| Company | Description | Web Site| Location |
-|---------|-------------|---------| -------- |
-|AIR RMLD d.o.o.|Automated aircraft/drones||-|
-|ATINEL d.o.o.|Automation in industry and construction||-|
-|Autron d.o.o.|Automation in industry||-|
-|Average Solutions d.o.o.|Factory automation in the automotive industry||?|
+| Company                                               | Description                                                           | Location                                       | Web Site                            |
+|-------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------|--------------------------------------|
+| **AIR RMLD d.o.o.**                                   | Automated aircraft/drones                                            | Jurkovićeva 9a, 10000 Zagreb                  | [air-rmld.com](https://air-rmld.com) |
+| **ATINEL d.o.o.**                                     | Automation in industry and construction                              | Dragutina Golika 2, 42000 Varaždin            | [atinel.hr](https://atinel.hr)       |
+| **Autron d.o.o.**                                     | Automation in industry                                               | Ulica baruna Jelačića 22b, 42000 Varaždin      | [autron.hr](https://autron.hr)       |
+| **Average Solutions d.o.o.**                          | Factory automation in the automotive industry                        | Ulica Franje Fanceva 40, 10000 Zagreb          | [average-solutions.hr](https://average-solutions.hr) |
+| **Byte Lab Grupa d.o.o.**                             | Electronics and IoT development                                      | Ulica grada Vukovara 269D, 10000 Zagreb        | [byte-lab.com](https://byte-lab.com) |
+| **Codel d.o.o.**                                      | Robot systems for autonomous navigation and control                  | Slavonska avenija 6, 10000 Zagreb             | [codel.eu](https://codel.eu)         |
+| **DOK-ING d.o.o.**                                    | Robotics and specialized systems                                     | Slavonska avenija 22G, 10000 Zagreb            | [dok-ing.hr](https://dok-ing.hr)     |
+| **Gideon Brothers d.o.o.**                            | Autonomous mobile robots                                             | Samoborska 7, 10000 Zagreb                     | [gideonbros.ai](https://gideonbros.ai) |
+| **Hennlich d.o.o.**                                   | Industrial components supply                                         | Stupničkoobreška ulica 31, 10255 Donji Stupnik | [hennlich.hr](https://hennlich.hr)   |
+| **Inetec – Institut za nuklearnu tehnologiju d.o.o.** | Specialized products and services for nuclear energy                 | Dolenica 28, 10250 Lučko                       | [inetec.hr](https://inetec.hr)       |
+| **Probotica d.o.o.**                                  | Automation in mechatronics and process industry                      | Slavonska avenija 6A, 10000 Zagreb            | [probotica.hr](https://probotica.hr) |
+| **Proel Automatizacija d.o.o.**                       | Automation in industry                                               | Radnička cesta 177, 10000 Zagreb              | [proel-automatizacija.com](https://proel-automatizacija.com) |
+| **Puric d.o.o.**                                      | Robot automation solutions                                           | Slavonska avenija 22G, 10000 Zagreb            | [puric.hr](https://puric.hr)         |
+| **Romb Technologies d.o.o.**                          | Development of systems for autonomous navigation and drone control   | Ulica Antuna Harambašića 6, 31000 Osijek       | [romb-technologies.hr](https://romb-technologies.hr) |
+| **Ronna Medical d.o.o.**                              | Robotic systems for neurosurgery and supplementary medical devices   | ???                                            | ???                                  |
+| **Stemi d.o.o.**                                      | STEM education                                                       | Školjić 12, 51000 Rijeka                       | [stemi.education](https://stemi.education) |
+| **Strojobehnika d.o.o.**                              | Robotic systems / automation in industry                             | ???                                            | ???                                  |
+| **V&R Automated Systems d.o.o.**                      | Automation in industry                                               | Ulica Ivana Kreleta 18A, 10360 Sesvete         | ???                                  |
